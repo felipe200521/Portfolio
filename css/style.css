@@ -45,13 +45,11 @@ a{
 }
 
 .principal{
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    margin-top: 20px;
+    
+    margin-top: 25px;
     text-align: center !important;
-    margin-left: 30% !important;
-    margin-right: 30% !important;
+    margin-left: 25% !important;
+    margin-right: 25% !important;
 }
 
 .col-10{
@@ -86,6 +84,13 @@ a{
         margin-top: 1em !important;
         border-radius: 30px !important;
         width: 150% !important;
+    }
+     .principal{
+    
+        margin-top: 25px;
+        text-align: center !important;
+        margin-left: 25% !important;
+        margin-right: 38% !important;
     }
 
 }
