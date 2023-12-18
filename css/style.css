@@ -93,4 +93,15 @@ a{
         margin-right: 38% !important;
     }
 
+    .img-perfil{
+        width: 20% !important;
+        border-radius: 50%;
+    }
+
+    .rodapé{
+        text-align: center !important;
+        margin-top: 45% !important;      
+        font-size: 50% !important;
+    }
+
 }
